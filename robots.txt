@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://sparklingpool.sparkpoolcleaning.xyz/sitemap_index.xml
